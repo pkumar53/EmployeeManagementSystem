@@ -52,6 +52,7 @@ EmployeeManagementSystem/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ## To Execute
 git clone https://github.com/pkumar53/EmployeeManagementSystem.git
